@@ -3,3 +3,7 @@ git inti
 git .add
 git commit
 git push
+git username
+git password
+git link
+git need to check in the site
