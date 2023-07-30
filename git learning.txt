@@ -1,0 +1,5 @@
+i am learning
+git inti
+git .add
+git commit
+git push
