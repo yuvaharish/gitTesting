@@ -1,5 +1,7 @@
 i am learning
-git inti
-git .add
-git commit
-git push
+step 1 git inti
+step 2 git .add
+step 3 git commit
+step 4 git push
+step 5 git link
+step 6 check in the git site
